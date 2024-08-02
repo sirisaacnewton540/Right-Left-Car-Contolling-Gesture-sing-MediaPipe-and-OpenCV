@@ -4,6 +4,10 @@
 
 This project implements a hand gesture-based control system for driving using hand motion detection. The system uses computer vision techniques to detect hand gestures and translates them into driving commands. This project can be useful for developing innovative control systems for vehicles, especially for people with physical disabilities.
 
+## Result
+![ezgif com-gif-maker](https://github.com/user-attachments/assets/82342ee5-a0a4-461b-9463-e5dbf3834705)
+
+
 ## Features
 
 - Hand gesture detection using computer vision
